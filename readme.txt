@@ -1,12 +1,4 @@
-=== WooCommerce Live Preview for WooCommerce Product Options ===
-Contributors: barn2media
-Tags: woocommerce, product, options, addons, live preview, image preview
-Requires at least: 6.1.0
-Tested up to: 6.8.1
-Requires PHP: 7.4
-Stable tag: 2.0.0
-License: GNU General Public License v3.0
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
 
 Add Live Preview of uploaded images to WooCommerce Product Options
 
